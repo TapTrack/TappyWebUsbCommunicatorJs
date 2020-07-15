@@ -1,0 +1,36 @@
+{
+    "name": "@taptrack/tappy-webusbcommunicator",
+    "version": "0.0.1",
+    "description": "WebUSB communicator for use with the Tappy",
+    "main": "dist/webusbserial.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "TapTrack",
+    "keywords": [
+        "TCMP",
+        "Tappy",
+        "TappyUSB"
+    ],
+    "devDependencies": {
+        "@babel/core": "^7.10.4",
+        "@babel/preset-env": "^7.10.4",
+        "del": "^5.1.0",
+        "gulp": "^4.0.2",
+        "gulp-babel": "^8.0.0",
+        "gulp-jasmine": "^4.0.0",
+        "gulp-jshint": "^2.1.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-uglify": "^3.0.2",
+        "jshint": "^2.11.1",
+        "jshint-stylish": "^2.2.1",
+        "merge-stream": "^2.0.0"
+    },
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "private"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "name": "tappy-webusbcommunicator",
+    "description": "WebUSB communicator for use with the Tappy",
+    "main": [
+        "dist/webusbserial.js"
+    ],
+    "authors": [
+        "TapTrack"
+    ],
+    "license": "Apache-2.0",
+    "homepage": "",
+    "ignore": [
+        "**/.*",
+        "gulpfile.js",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ]
+}
