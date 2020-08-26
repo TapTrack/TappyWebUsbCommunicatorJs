@@ -1,5 +1,7 @@
-Communicator for using a Noble peripheral to communicate with a 
-TappyBLE device in node.
+Communicator for accessing a Tappy over WebUSB. This communicator
+supports the current FTDI USB serial-based Tappies and 
+also provides experimental support for next-generation Native USB
+Tappies. 
 
 ## Installation
 NPM

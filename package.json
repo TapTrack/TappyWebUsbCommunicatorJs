@@ -1,6 +1,6 @@
 {
     "name": "@taptrack/tappy-webusbcommunicator",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "WebUSB communicator for use with the Tappy",
     "main": "dist/webusbserial.js",
     "directories": {
@@ -31,6 +31,7 @@
     },
     "license": "Apache-2.0",
     "repository": {
-        "type": "private"
+        "type": "git",
+        "url": "git://github.com/TapTrack/TappyWebUsbCommunicatorJs.git"
     }
 }
